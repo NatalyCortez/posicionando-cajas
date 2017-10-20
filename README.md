@@ -11,4 +11,5 @@ Herramientas utilizadas:
 a.css b.html
 
 Vista previa:
-![vistaprevia]()
+-----
+![vistaprevia](https://raw.githubusercontent.com/NatalyCortez/posicionando-cajas/master/assets/img/posicionandoenlaweb.JPG)
